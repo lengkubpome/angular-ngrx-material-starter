@@ -8,3 +8,5 @@
 Please create pull request updating this file or open an issue.
 Every item in this list should follow `<name> - <description>` format and name
 should be clickable link. When in doubt, use already added projects as an example.
+
+Thank you for starter project
